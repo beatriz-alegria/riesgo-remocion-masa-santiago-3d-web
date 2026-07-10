@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/riesgo_remocion_masa_rm_3d.html" }
+  ]
+}
