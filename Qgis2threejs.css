@@ -151,12 +151,18 @@ body {
 #header {
   position: absolute;
   margin: 5px 10px;
+  max-width: calc(100vw - 40px);
+  box-sizing: border-box;
+  overflow-wrap: break-word;
 }
 
 #footer {
   position: absolute;
   left: 5px;
   bottom: 5px;
+  max-width: calc(100vw - 20px);
+  box-sizing: border-box;
+  overflow-wrap: break-word;
 }
 
 /* popup */
